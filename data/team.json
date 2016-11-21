@@ -86,6 +86,28 @@
     ]
   },
   {
+    "title": "Google Cloud Platform User Group",
+    "members": [
+      {
+        "name": "Cage Chung",
+        "photoUrl": "https://storage.googleapis.com/devfest-2016/devfest2016-cage.jpg",
+        "socials": [
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/cage.chung",
+            "name": "Facebook"
+          },
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/+KaiChuChung",
+            "name": "Google+"
+          }
+        ],
+        "title": "Organizer"
+      }
+    ]
+  },
+  {
     "title": "Taiwan Android Developer Study Group",
     "members": [
       {
